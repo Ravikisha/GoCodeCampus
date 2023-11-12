@@ -13,6 +13,11 @@ Welcome to GoCodeCampus, an educational hub and playground for Go developers. Th
 
 GoCodeCampus is a collaborative initiative aimed at promoting Go programming language learning and fostering a community of contributors. Whether you are a seasoned Go developer or a beginner eager to learn, this repository has tutorials and projects covering diverse aspects of Go development.
 
+## Project Stack 📚
+<p align="left">
+<img src="https://img.shields.io/badge/Golang-1.16-blue?style=for-the-badge&logo=go" alt="Golang" />
+</p>
+
 ## Project Categories 🛠️
 
 The GoCodeCampus repository includes a variety of project categories, such as:
